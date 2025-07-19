@@ -1,5 +1,11 @@
 # Linux Automation Scripts
-Scripts de automação para tarefas comuns em servidores Linux:
-- Backup automático
-- Limpeza de logs antigos
-- Criação e remoção de usuários
+Scripts para tarefas comuns em servidores Linux:
+- `backup.sh`: Backup automático.
+- `log_cleaner.sh`: Limpeza de logs antigos.
+- `user_manager.sh`: Gerenciamento de usuários.
+
+## Uso
+```bash
+bash backup.sh
+bash log_cleaner.sh
+bash user_manager.sh add usuario
