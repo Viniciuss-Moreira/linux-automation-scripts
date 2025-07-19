@@ -1,2 +1,5 @@
-# linux-automation-scripts
-Scripts Bash para automação e administração de servidores Linux.
+# Linux Automation Scripts
+Scripts de automação para tarefas comuns em servidores Linux:
+- Backup automático
+- Limpeza de logs antigos
+- Criação e remoção de usuários
