@@ -175,22 +175,6 @@ grep "SUMMARY" /var/log/automation/log_cleaner.log
 4. Push para a branch (`git push origin feature/nova-funcionalidade`)
 5. Abra um Pull Request
 
-## 📝 Changelog
-
-### v1.2.0 (2025-07-19)
-- Adicionado suporte a backup incremental
-- Melhorada validação de parâmetros
-- Corrigido bug na rotação de logs
-
-### v1.1.0 (2025-06-15)
-- Adicionado template system para usuários
-- Implementado dry-run no log cleaner
-- Adicionadas notificações por email
-
-### v1.0.0 (2025-05-01)
-- Release inicial
-- Scripts básicos de backup, limpeza e usuários
-
 ## 🐛 Troubleshooting
 
 ### Problemas Comuns
@@ -214,8 +198,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/Viniciuss-Moreira)
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/viniciusmoreira-)
+- GitHub: [@Viniciuss-Moreira](https://github.com/Viniciuss-Moreira)
+- LinkedIn: [Vinicius Moreira](https://linkedin.com/in/viniciusmoreira-)
 - Email: vinnismoreira@gmail.com
 
 ## 🌟 Agradecimentos
